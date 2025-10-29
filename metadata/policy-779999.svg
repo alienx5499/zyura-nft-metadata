@@ -1,4 +1,4 @@
-<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZYURA airline-style boarding pass for insurance NFT. Flight QZ456, departure 2025-10-29T22:58:47.000Z. Policy #779999, Product 1. Premium $1.00, Coverage $100.00. Non-transferable proof of insurance.">
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZYURA airline-style boarding pass for insurance NFT. Flight QZ456, departure 2025-10-29T22:58:47.000Z. Policy #779999, Product 1. Premium $0.00, Coverage $100.00. Non-transferable proof of insurance.">
   <defs>
     <style>
       .brand { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 28px; font-weight: bold; fill: #ffffff; }
@@ -67,7 +67,7 @@
     <!-- Premium chip -->
     <rect x="24" y="216" width="180" height="88" fill="#EFFBFA" stroke="#2EC4B6" stroke-width="1" rx="8"/>
     <text x="36" y="238" class="label">Premium</text>
-    <text x="36" y="268" class="value" font-weight="bold">$1.00</text>
+    <text x="36" y="268" class="value" font-weight="bold">$0.00</text>
     
     <!-- Coverage chip -->
     <rect x="216" y="216" width="180" height="88" fill="#F0F5FF" stroke="#2B8CFF" stroke-width="1" rx="8"/>
