@@ -1,0 +1,27 @@
+{
+  "name": "ZYURA Policy 762843 AP999",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/policy-762843.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "762843"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "AP999"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-10-31T00:30:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "1000000"
+    }
+  ]
+}
