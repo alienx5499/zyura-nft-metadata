@@ -1,0 +1,31 @@
+{
+  "name": "ZYURA Policy 789010 RT756",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/BoSU3QWjuBrQQB9U7xroYScKqPoZyKNTPKyGjaUsJpcH/policy-789010.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "789010"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "RT756"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-10-29T22:58:47.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "5000000"
+    }
+  ]
+}
