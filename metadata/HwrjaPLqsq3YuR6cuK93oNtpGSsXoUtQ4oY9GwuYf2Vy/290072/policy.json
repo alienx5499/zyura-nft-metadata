@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 290072 UA123",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/290072/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "290072"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "UA123"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "BCD890"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-11-13T15:45:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "5000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}
