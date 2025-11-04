@@ -58,7 +58,7 @@
     <text x="24" y="100" class="label">Flight</text>
     <text x="24" y="128" class="value-large">RT756</text>
     <text x="220" y="100" class="label">PNR</text>
-    <text x="220" y="128" class="value-large">[PNR]</text>
+    <text x="220" y="128" class="value-large">N/A</text>
     
     <!-- Departure section -->
     <text x="24" y="164" class="label">Departure (UTC)</text>
