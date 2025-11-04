@@ -1,0 +1,28 @@
+{
+  "flight_number": "AA456",
+  "date": "2025-11-05",
+  "scheduled_departure_unix": 1762328400,
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "RGH266913",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Raghav Rathi",
+        "dateOfBirth": "1990-01-15",
+        "documentId": "P98765432",
+        "seat": "10A",
+        "email": "raghav.rathi@example.com",
+        "phone": "+1-555-0999"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1762284881,
+      "updated_at": 1762284881
+    }
+  ],
+  "created_at": 1762284881,
+  "updated_at": 1762284881
+}
