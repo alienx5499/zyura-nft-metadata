@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 764705 AB123",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/764705/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "764705"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "AB123"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-10-31T02:00:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "9000000"
+    },
+    {
+      "trait_type": "Coverage (6dp)",
+      "value": "300000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}

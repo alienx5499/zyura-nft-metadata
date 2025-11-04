@@ -1,7 +1,7 @@
 {
-  "name": "ZYURA Policy 773106 QA456",
+  "name": "ZYURA Policy 993464 XX123",
   "symbol": "ZYURA",
-  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/policy-773106.svg",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/993464/policy.svg",
   "attributes": [
     {
       "trait_type": "Product ID",
@@ -9,19 +9,19 @@
     },
     {
       "trait_type": "Policy ID",
-      "value": "773106"
+      "value": "993464"
     },
     {
       "trait_type": "Flight",
-      "value": "QA456"
+      "value": "XX123"
     },
     {
       "trait_type": "PNR",
-      "value": "QAZ123"
+      "value": "XYZ123"
     },
     {
       "trait_type": "Departure",
-      "value": "2025-12-18T01:00:00.000Z"
+      "value": "2025-11-29T02:30:00.000Z"
     },
     {
       "trait_type": "Premium (6dp)",

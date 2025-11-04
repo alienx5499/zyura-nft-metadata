@@ -1,7 +1,7 @@
 {
-  "name": "ZYURA Policy 773405 WE123",
+  "name": "ZYURA Policy 763067 AP222",
   "symbol": "ZYURA",
-  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/policy-773405.svg",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/763067/policy.svg",
   "attributes": [
     {
       "trait_type": "Product ID",
@@ -9,23 +9,23 @@
     },
     {
       "trait_type": "Policy ID",
-      "value": "773405"
+      "value": "763067"
     },
     {
       "trait_type": "Flight",
-      "value": "WE123"
-    },
-    {
-      "trait_type": "PNR",
-      "value": "WER123"
+      "value": "AP222"
     },
     {
       "trait_type": "Departure",
-      "value": "2025-11-07T02:30:00.000Z"
+      "value": "2025-11-01T02:30:00.000Z"
     },
     {
       "trait_type": "Premium (6dp)",
       "value": "9000000"
+    },
+    {
+      "trait_type": "Coverage (6dp)",
+      "value": "300000000"
     },
     {
       "trait_type": "Wallet Address",
