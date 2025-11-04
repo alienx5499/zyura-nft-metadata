@@ -30,6 +30,13 @@
     {
       "trait_type": "Wallet Address",
       "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    },
+    {
+      "trait_type": "Payout Transaction",
+      "value": "38jxFSJJU3QAc3DbPwMfz7eAQY9M6U9yJesoSiLHcAN8wPNisPcbwqywEoB8ZgCqxx8q4R2u4u4qPSatFARvGwjB"
     }
-  ]
+  ],
+  "payout_transaction": "38jxFSJJU3QAc3DbPwMfz7eAQY9M6U9yJesoSiLHcAN8wPNisPcbwqywEoB8ZgCqxx8q4R2u4u4qPSatFARvGwjB",
+  "payout_tx_sig": "38jxFSJJU3QAc3DbPwMfz7eAQY9M6U9yJesoSiLHcAN8wPNisPcbwqywEoB8ZgCqxx8q4R2u4u4qPSatFARvGwjB",
+  "paid_at": "2025-11-04T19:23:13.377Z"
 }
