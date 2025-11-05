@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 325814 SW234",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/325814/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "4"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "325814"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "SW234"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "JKL012"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-11-07T06:00:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "22000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}
