@@ -1,0 +1,47 @@
+{
+  "name": "ZYURA Policy 1763034891378 FF777",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/5oCZha9TqTzKTQCq1RaZCUYfLf8rsA9JG8YkzZUpUcby/1763034891378/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "1763034891378"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "FF777"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "SYNC01"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-11-13T12:54:20.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "20000000"
+    },
+    {
+      "trait_type": "Coverage (6dp)",
+      "value": "2000000000"
+    },
+    {
+      "trait_type": "Status",
+      "value": "PaidOut"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "5oCZha9TqTzKTQCq1RaZCUYfLf8rsA9JG8YkzZUpUcby"
+    },
+    {
+      "trait_type": "Payout Date",
+      "value": "2025-11-13T11:54:53.000Z"
+    }
+  ]
+}
