@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 780269 XA184",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/780269/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "780269"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "XA184"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "9HDUUF"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-05-09T19:31:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "20000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}
