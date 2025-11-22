@@ -1,0 +1,43 @@
+{
+  "name": "ZYURA Policy 2 BB456",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw/2/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "BB456"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "SYNC01"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-11-12T17:56:44.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "10000000"
+    },
+    {
+      "trait_type": "Coverage (6dp)",
+      "value": "100000000"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "DrpS4mRniBacQThPCWUFwcXDAQvJuzX9mC4woAfcJdKw"
+    }
+  ]
+}
