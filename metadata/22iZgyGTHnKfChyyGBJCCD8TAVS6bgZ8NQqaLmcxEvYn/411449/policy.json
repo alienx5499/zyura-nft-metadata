@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 411449 QL847",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/22iZgyGTHnKfChyyGBJCCD8TAVS6bgZ8NQqaLmcxEvYn/411449/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "5"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "411449"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "QL847"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "H9RMS3"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-04-01T19:53:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "50000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "22iZgyGTHnKfChyyGBJCCD8TAVS6bgZ8NQqaLmcxEvYn"
+    }
+  ]
+}
