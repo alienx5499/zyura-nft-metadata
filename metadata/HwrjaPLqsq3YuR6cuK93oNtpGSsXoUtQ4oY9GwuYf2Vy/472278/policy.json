@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 472278 MJ510",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/472278/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "472278"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "MJ510"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "L7RDWM"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2026-01-02T19:36:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "20000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}
