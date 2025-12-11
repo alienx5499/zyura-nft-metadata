@@ -1,0 +1,35 @@
+{
+  "name": "ZYURA Policy 478619 PJ815",
+  "symbol": "ZYURA",
+  "image": "https://raw.githubusercontent.com/alienx5499/zyura-nft-metadata/main/metadata/HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy/478619/policy.svg",
+  "attributes": [
+    {
+      "trait_type": "Product ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Policy ID",
+      "value": "478619"
+    },
+    {
+      "trait_type": "Flight",
+      "value": "PJ815"
+    },
+    {
+      "trait_type": "PNR",
+      "value": "JMJRNS"
+    },
+    {
+      "trait_type": "Departure",
+      "value": "2025-11-19T17:25:00.000Z"
+    },
+    {
+      "trait_type": "Premium (6dp)",
+      "value": "3000000"
+    },
+    {
+      "trait_type": "Wallet Address",
+      "value": "HwrjaPLqsq3YuR6cuK93oNtpGSsXoUtQ4oY9GwuYf2Vy"
+    }
+  ]
+}
